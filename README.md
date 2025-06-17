@@ -26,7 +26,7 @@ I'm a self-taught React Native developer who recently built and launched a full-
 ## 🚀 Featured Project: Crigloo Mobile App
 A real-time analytics dashboard built for a digital marketing startup. I handled everything from authentication to performance charting.
 
-📖 [Read the Project Overview](https://github.com/YOUR_USERNAME/crigloo-readme)
+📖 [Read the Project Overview](https://github.com/MiniBadri/crigloo-readme)
 
 ---
 
