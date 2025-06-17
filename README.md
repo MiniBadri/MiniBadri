@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Mini Badri
 
-<!--
-**MiniBadri/MiniBadri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught React Native developer who recently built and launched a full-featured mobile dashboard app. I specialize in turning real business needs into intuitive, cross-platform mobile experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech I Use
+<div align="left">
+
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Cognito-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Gifted_Charts-61DAFB?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Navigation-000000?style=for-the-badge&logo=reactrouter&logoColor=white" />
+  <img src="https://img.shields.io/badge/NativeBase-4F3CC9?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lottie-000000?style=for-the-badge&logo=lottie&logoColor=white" />
+  <img src="https://img.shields.io/badge/Yup-4E4E50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+
+</div>
+
+---
+
+## 🚀 Featured Project: Crigloo Mobile App
+A real-time analytics dashboard built for a digital marketing startup. I handled everything from authentication to performance charting.
+
+📖 [Read the Project Overview](https://github.com/YOUR_USERNAME/crigloo-readme)
+
+---
+
+## 📚 What I’m Working on Now
+- Preparing the Crigloo app for launch on the iPhone App Store
+- Learning mobile animation techniques to polish user interactions
+- Exploring Python for scripting and automation
+
+---
+
+## ✉️ How to Reach Me
+- [LinkedIn](https://www.linkedin.com/in/YOUR-LINK/)
+- Email: minibadri21@crigloo.com
+
+---
+
+## ⚡ Fun Fact
+I live in Seattle and love going on long trail walks — especially when I need to think through tricky UI logic!
