@@ -40,7 +40,7 @@ A real-time analytics dashboard built for a digital marketing startup. I handled
 
 ## ✉️ How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/YOUR-LINK/)
-- Email: minibadri21@crigloo.com
+- Email: mini@crigloo.com
 
 ---
 
