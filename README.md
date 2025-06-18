@@ -24,6 +24,16 @@ I'm a fullstack React Native Mobile App developer, recently built and launched a
 
 ---
 
+## 💡 Top Skills At a Glance
+
+- ✅ React Native App Development (2+ years)
+- ✅ Full UI/UX ownership and mobile design
+- ✅ REST API integration and authentication flows
+- ✅ Data visualization using charts and KPIs
+- ✅ Production-ready builds for Android
+
+---
+
 ## 🚀 Featured Project: Crigloo Mobile App
 A real-time analytics dashboard built for a digital marketing startup. I handled everything from authentication to performance charting.
 
