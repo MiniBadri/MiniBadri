@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Mini Badri
 
-I'm a self-taught React Native developer who recently built and launched a full-featured mobile dashboard app. I specialize in turning real business needs into intuitive, cross-platform mobile experiences.
+I'm a fullstack React Native Mobile App developer, recently built and launched a full-featured mobile dashboard app. I specialize in turning real business needs into intuitive, cross-platform mobile experiences.
 
 ---
 
-## 🛠 Tech I Use
+## 🛠 My Current stack
 <div align="left">
 
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -18,6 +18,7 @@ I'm a self-taught React Native developer who recently built and launched a full-
   <img src="https://img.shields.io/badge/Lottie-000000?style=for-the-badge&logo=lottie&logoColor=white" />
   <img src="https://img.shields.io/badge/Yup-4E4E50?style=for-the-badge" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+   <img src="https://img.shields.io/badge/CLI-FF9900?style=for-the-badge&logo=CLI&logoColor=white" />
 
 </div>
 
